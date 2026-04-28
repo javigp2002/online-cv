@@ -111,36 +111,39 @@ experiences:
     company: University of Granada, Granada, Spain
     details: |
       Flutter - NestJS - Docker - Firebase - Android
-      Developed and maintained a full-stack product using Flutter (mobile)
-      and NestJS (backend) for BIORI.
-        - Followed clean architecture principles.
-        - Served more than 300 active users across Android and iOS platforms.
-        - Implemented push notifications using Firebase Cloud Messaging (FCM).
-        - Built native Android-specific handling within the app.
+        
+        Developed and maintained a full-stack product using Flutter (mobile)
+        and NestJS (backend) for BIORI.
+          - Followed clean architecture principles.
+          - Served more than 300 active users across Android and iOS platforms.
+          - Implemented push notifications using Firebase Cloud Messaging (FCM).
+          - Built native Android-specific handling within the app.
 
   - role: Backend Engineer 
     time: 02.2025 - 06.2025
     company: AGR Gestion y Asesoramiento 2030 SL, Granada, Spain
     details: |
-      Azure - MySQL - NestJS
-      Developed a backend application that aggregated and normalized data
-      from multiple APIs into a unified finance database.
-        - Collected and analyzed client requirements to draft a scalable
-          project for Power BI.
-        - Deployed the solution on Microsoft Azure services.
+      Azure - MySQL - NestJS 
+
+        Developed a backend application that aggregated and normalized data
+        from multiple APIs into a unified finance database.
+          - Collected and analyzed client requirements to draft a scalable
+            project for Power BI.
+          - Deployed the solution on Microsoft Azure services.
 
   - role: Full Stack Engineer
     time: 03.2024 - 10.2024
     company: University of Granada, Granada, Spain
     details: |
       Flutter - NestJS - RxDart - Scrum - JWT - Git
-      Designed and implemented a full-stack product using Flutter (mobile)
-      and NestJS (backend) for BIORI.
-        - Applied MVVM pattern and reactive programming with RxDart.
-        - Secured backend services using JWT authentication.
-        - Implemented unit and integration tests with Jest and Supertest.
-        - Managed logs and refined requirements with the client.
-        - Designed and iterated UX/UI prototypes based on feedback.
+        
+        Designed and implemented a full-stack product using Flutter (mobile)
+        and NestJS (backend) for BIORI.
+          - Applied MVVM pattern and reactive programming with RxDart.
+          - Secured backend services using JWT authentication.
+          - Implemented unit and integration tests with Jest and Supertest.
+          - Managed logs and refined requirements with the client.
+          - Designed and iterated UX/UI prototypes based on feedback.
 
 projects:
   title: Projects
@@ -149,7 +152,7 @@ projects:
     systems.
   assignments:
   - title: Gonsar
-    link:
+    link: https://github.com/javigp2002/spatial_sdk
     tagline: "Android - Clean Architecture - Jetpack - Koin - Meta Quest 3 - Raspberry Pi"
     details: |
       - Engineered a native Android application structured on clean architecture principles
@@ -159,11 +162,11 @@ projects:
       - Deployed Backend in Raspberry Pi 5 with Docker
 
   - title: FormGim
-    link:
+    link: https://github.com/javigp2002/FormGim
     tagline: "Android - SQLite - Kotlin"
 
   - title: SharCar
-    link:
+    link: https://github.com/javigp2002/Sharcar
     tagline: "Ktor - BDD - Docker - ELK"
 
 education:
