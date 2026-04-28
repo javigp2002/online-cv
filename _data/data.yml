@@ -15,7 +15,7 @@ sidebar:
   # Sidebar links
   email: javigp2002@gmail.com
   phone: +34 651 599 151
-  timezone: Europe/Madrid # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  timezone: 
   citizenship: Spain
   website:
   linkedin: javier-gonz%C3%A1lez-peregr%C3%ADn-b105b2279
@@ -36,7 +36,7 @@ sidebar:
   pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
   languages:
-    title: Languages
+    title: LANGUAGES
     info:
     - idiom: Spanish
       level: Native
@@ -45,49 +45,48 @@ sidebar:
       level: B2 (Cambridge First)
 
   interests:
-    title: Interests
+    title: INTERESTS
     info:
-    - item: Android Development
+    - item: Traveling and Cultural Exploration
       link:
 
-    - item: Computer Vision
+    - item: Videogames
       link:
 
-    - item: IoT and Embedded Systems
+    - item: Volleyball
+      link:
+    - item: Football
       link:
 
-    # title: Other
-    # list:
-    # - name: Converted University eSports
-    #   start: 2021
-    #   end:
-    #   organization: Madrid Gamergy
-    #   credentialid:
-    #   credentialurl:
-    #   credentialname:
-    #   details: |
-    #     Winner (2021).
-  
-    # - name: Volunteering
-    #   start:
-    #   end:
-    #   organization: Obra Social "La Caixa"
-    #   credentialid:
-    #   credentialurl:
-    #   credentialname:
-    #   details: |
-    #     Community volunteering activities.
-  
-    # - name: MOOC - Machine Learning and Big Data for Bioinformatics
-    #   start: 09.2022
-    #   end: 04.2023
-    #   organization:
-    #   credentialid:
-    #   credentialurl:
-    #   credentialname:
-    #   details: |
-    #     Completed specialized coursework in machine learning and big data
-    #     applied to bioinformatics.
+  other:
+    title: OTHER
+    list:
+    - name: Converted University eSports
+      start: 2021
+      end:
+      organization: Madrid Gamergy
+      credentialid:
+      credentialurl:
+      credentialname:
+      details: Winner (2021).
+
+    - name: Volunteering
+      start:
+      end:
+      organization: Obra Social "La Caixa"
+      credentialid:
+      credentialurl:
+      credentialname:
+      details: Community volunteering activities.
+
+    - name: MOOC - Machine Learning and Big Data for Bioinformatics
+      start: 09.2022
+      end: 04.2023
+      organization:
+      credentialid:
+      credentialurl:
+      credentialname:
+      details: Completed specialized coursework in machine learning and big data applied to bioinformatics.
   
 
 

@@ -1,0 +1,30 @@
+{% assign other = site.data.data.sidebar.other %}
+{% if other %}
+<div class="interests-container container-block">
+
+  <h2 class="container-block-title">
+    {{ other.title }}
+  </h2>
+
+  <ul class="list-unstyled interests-list">
+    {% for item in other.list %}
+    <li>
+      <strong>{{ item.name }}</strong>
+      {% if item.start or item.end %}
+      ({{ item.start }}{% if item.end %} - {{ item.end }}{% endif %})
+      {% endif %}
+      {% if item.organization %}
+      <br>{{ item.organization }}
+      {% endif %}
+      {% if item.details %}
+      <br>{{ item.details }}
+      {% endif %}
+      {% if item.credentialurl and item.credentialname %}
+      <br><a href="//{{ item.credentialurl }}" target="_blank">{{ item.credentialname }}</a>
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+
+</div><!--//other-->
+{% endif %}
