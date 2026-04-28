@@ -55,6 +55,40 @@ sidebar:
     - item: IoT and Embedded Systems
       link:
 
+    # title: Other
+    # list:
+    # - name: Converted University eSports
+    #   start: 2021
+    #   end:
+    #   organization: Madrid Gamergy
+    #   credentialid:
+    #   credentialurl:
+    #   credentialname:
+    #   details: |
+    #     Winner (2021).
+  
+    # - name: Volunteering
+    #   start:
+    #   end:
+    #   organization: Obra Social "La Caixa"
+    #   credentialid:
+    #   credentialurl:
+    #   credentialname:
+    #   details: |
+    #     Community volunteering activities.
+  
+    # - name: MOOC - Machine Learning and Big Data for Bioinformatics
+    #   start: 09.2022
+    #   end: 04.2023
+    #   organization:
+    #   credentialid:
+    #   credentialurl:
+    #   credentialname:
+    #   details: |
+    #     Completed specialized coursework in machine learning and big data
+    #     applied to bioinformatics.
+  
+
 
 career-profile:
   title: Career Profile
@@ -68,6 +102,69 @@ career-profile:
     including hardware sensors, IoT devices, and computer vision models,
     translating technical constraints into functional, high-performance
     mobile solutions.
+
+experiences:
+  title: Experience
+  info:
+  - role: Full Stack Engineer 
+    time: 06.2025 - 10.2025
+    company: University of Granada, Granada, Spain
+    tagline:  Flutter - NestJS - Docker - Firebase - Android
+    details: |
+      Developed and maintained a full-stack product using Flutter (mobile)
+      and NestJS (backend) for BIORI.
+        - Followed clean architecture principles.
+        - Served more than 300 active users across Android and iOS platforms.
+        - Implemented push notifications using Firebase Cloud Messaging (FCM).
+        - Built native Android-specific handling within the app.
+
+  - role: Backend Engineer 
+    time: 02.2025 - 06.2025
+    company: AGR Gestion y Asesoramiento 2030 SL, Granada, Spain
+    tagline: Azure - MySQL - NestJS
+    details: |
+      Developed a backend application that aggregated and normalized data
+      from multiple APIs into a unified finance database.
+        - Collected and analyzed client requirements to draft a scalable
+          project for Power BI.
+        - Deployed the solution on Microsoft Azure services.
+
+  - role: Full Stack Engineer
+    time: 03.2024 - 10.2024
+    company: University of Granada, Granada, Spain
+    tagline: Flutter - NestJS - RxDart - Scrum - JWT - Git
+    details: |
+      Designed and implemented a full-stack product using Flutter (mobile)
+      and NestJS (backend) for BIORI.
+        - Applied MVVM pattern and reactive programming with RxDart.
+        - Secured backend services using JWT authentication.
+        - Implemented unit and integration tests with Jest and Supertest.
+        - Managed logs and refined requirements with the client.
+        - Designed and iterated UX/UI prototypes based on feedback.
+
+projects:
+  title: Projects
+  intro: >
+    Selected software projects focused on Android, backend, and real-time
+    systems.
+  assignments:
+  - title: Gonsar
+    link:
+    tagline: "Android - Clean Architecture - Jetpack - Koin - Meta Quest 3 - Raspberry Pi"
+    details: |
+      - Engineered a native Android application structured on clean architecture principles
+      - Handled latency-critical data flows using Kotlin coroutines within an MVVM structure.
+      - Designed UI/UX with Jetpack Compose
+      - Integrated ML Kit and OpenCV for real-time object detection and spatial tracking (Spatial SDK)
+      - Deployed Backend in Raspberry Pi 5 with Docker
+
+  - title: FormGim
+    link:
+    tagline: "Android - SQLite - Kotlin"
+
+  - title: SharCar
+    link:
+    tagline: "Ktor - BDD - Docker - ELK"
 
 education:
   title: Education
@@ -87,111 +184,20 @@ education:
       Thesis Grade: 8.9
       Honor in Data Structures
 
-experiences:
-  title: Experience
-  info:
-  - role: Full Stack Engineer | Flutter - NestJS - Docker - Firebase - Android
-    time: 06.2025 - 10.2025
-    company: University of Granada, Granada, Spain
-    details: |
-      Developed and maintained a full-stack product using Flutter (mobile)
-      and NestJS (backend) for BIORI.
-        - Followed clean architecture principles.
-        - Served more than 300 active users across Android and iOS platforms.
-        - Implemented push notifications using Firebase Cloud Messaging (FCM).
-        - Built native Android-specific handling within the app.
-
-  - role: Backend Engineer | Azure - MySQL - NestJS
-    time: 02.2025 - 06.2025
-    company: AGR Gestion y Asesoramiento 2030 SL, Granada, Spain
-    details: |
-      Developed a backend application that aggregated and normalized data
-      from multiple APIs into a unified finance database.
-        - Collected and analyzed client requirements to draft a scalable
-          project for Power BI.
-        - Deployed the solution on Microsoft Azure services.
-
-  - role: Full Stack Engineer | Flutter - NestJS - RxDart - Scrum - JWT - Git
-    time: 03.2024 - 10.2024
-    company: University of Granada, Granada, Spain
-    details: |
-      Designed and implemented a full-stack product using Flutter (mobile)
-      and NestJS (backend) for BIORI.
-        - Applied MVVM pattern and reactive programming with RxDart.
-        - Secured backend services using JWT authentication.
-        - Implemented unit and integration tests with Jest and Supertest.
-        - Managed logs and refined requirements with the client.
-        - Designed and iterated UX/UI prototypes based on feedback.
-
-certifications:
-  title: Other
-  list:
-  - name: Converted University eSports
-    start: 2021
-    end:
-    organization: Madrid Gamergy
-    credentialid:
-    credentialurl:
-    credentialname:
-    details: |
-      Winner (2021).
-
-  - name: Volunteering
-    start:
-    end:
-    organization: Obra Social "La Caixa"
-    credentialid:
-    credentialurl:
-    credentialname:
-    details: |
-      Community volunteering activities.
-
-  - name: MOOC - Machine Learning and Big Data for Bioinformatics
-    start: 09.2022
-    end: 04.2023
-    organization:
-    credentialid:
-    credentialurl:
-    credentialname:
-    details: |
-      Completed specialized coursework in machine learning and big data
-      applied to bioinformatics.
-
-projects:
-  title: Projects
-  intro: >
-    Selected software projects focused on Android, backend, and real-time
-    systems.
-  assignments:
-  - title: Gonsar
-    link:
-    tagline: "Android - Clean Architecture - Jetpack - Koin - Meta Quest 3 - Raspberry Pi"
-
-  - title: Gonsar Highlights
-    link:
-    tagline: "Engineered a native Android app with clean architecture, Kotlin coroutines, MVVM, Jetpack Compose, ML Kit, OpenCV, and Spatial SDK; deployed backend on Raspberry Pi 5 with Docker."
-
-  - title: FormGim
-    link:
-    tagline: "Android - SQLite - Kotlin"
-
-  - title: SharCar
-    link:
-    tagline: "Ktor - BDD - Docker - ELK"
 
 skills:
   title: Skills
 
   toolset:
-  - name: "Programming Languages: Kotlin, Java, Dart, TypeScript, Python, C++, JavaScript"
-    level: 80%
-
-  - name: "Android: Jetpack Compose/View, XML, Services, Gradle, Coroutines"
+  - name: "Android: Jetpack Compose, Hilt, Coroutines, Retrofit, Flow, Kotlin, Java"
     level: 85%
 
-  - name: "Architecture & Practices: MVVM, MVP, MVC, Clean Architecture, SOLID, DI, CI/CD, TDD, BDD, Agile (Scrum)"
+  - name: "Architecture & Practices: MVVM, Clean Architecture, SOLID, Github Actions, Jenkins, Scrum"
     level: 92%
 
+  - name: "TypeScript / JavaScript"
+    level: 70%
+    
   - name: "Cloud & DevOps: Docker, PM2, Nginx, Firebase Cloud Messaging, Azure, AWS, Google Cloud Auth"
     level: 60%
 
