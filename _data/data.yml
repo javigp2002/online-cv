@@ -109,8 +109,8 @@ experiences:
   - role: Full Stack Engineer 
     time: 06.2025 - 10.2025
     company: University of Granada, Granada, Spain
-    tagline:  Flutter - NestJS - Docker - Firebase - Android
     details: |
+      Flutter - NestJS - Docker - Firebase - Android
       Developed and maintained a full-stack product using Flutter (mobile)
       and NestJS (backend) for BIORI.
         - Followed clean architecture principles.
@@ -121,8 +121,8 @@ experiences:
   - role: Backend Engineer 
     time: 02.2025 - 06.2025
     company: AGR Gestion y Asesoramiento 2030 SL, Granada, Spain
-    tagline: Azure - MySQL - NestJS
     details: |
+      Azure - MySQL - NestJS
       Developed a backend application that aggregated and normalized data
       from multiple APIs into a unified finance database.
         - Collected and analyzed client requirements to draft a scalable
@@ -132,8 +132,8 @@ experiences:
   - role: Full Stack Engineer
     time: 03.2024 - 10.2024
     company: University of Granada, Granada, Spain
-    tagline: Flutter - NestJS - RxDart - Scrum - JWT - Git
     details: |
+      Flutter - NestJS - RxDart - Scrum - JWT - Git
       Designed and implemented a full-stack product using Flutter (mobile)
       and NestJS (backend) for BIORI.
         - Applied MVVM pattern and reactive programming with RxDart.

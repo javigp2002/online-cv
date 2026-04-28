@@ -5,10 +5,6 @@ layout: default
 
 {% include career-profile.html %}
 
-{% unless site.data.data.sidebar.education %}
-  {% include education.html %}
-{% endunless %}
-
 {% include experiences.html %}
 
 {% include certifications.html %}
@@ -16,6 +12,10 @@ layout: default
 {% include projects.html %}
 
 {% include oss-contributions.html %}
+
+{% unless site.data.data.sidebar.education %}
+  {% include education.html %}
+{% endunless %}
 
 {% include publications.html %}
 
